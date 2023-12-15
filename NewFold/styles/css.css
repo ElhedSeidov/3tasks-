@@ -1,0 +1,37 @@
+body
+{
+    background-color: lightgrey;
+}
+.inner 
+{
+ margin: auto;
+ margin-top: 5%;
+ height: 600px;
+ width: 80%;
+ background-color: white;
+}
+
+h1
+{
+    font-size: 34px;
+    margin-left: 40%;
+    padding-top: 5%;
+}
+h2
+{
+    font-size: 31px;
+}
+p
+{
+    font-size: 27px;
+}
+section
+{
+    width: 80%;
+    margin-left: 10%;
+  
+}
+a
+{
+    color: black;
+}

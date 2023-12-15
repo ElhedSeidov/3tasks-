@@ -1,0 +1,46 @@
+header
+{
+    background-color: rgb(114, 70, 5);
+    height: 230px;
+    padding: 70px 0;
+    text-align: center;
+    font-size: 46px;
+    font-weight: 900; 
+}
+.content
+{
+    background-color: rgb(210, 174, 82);
+}
+ul
+{
+  margin: auto;
+  margin-left: 28%;
+  padding-top: 15px;
+}
+li
+{
+    display: inline;
+    margin: 15px;
+    
+}
+a
+{
+    font-size: 25px;
+    text-decoration: none;
+    color: green;
+    font-weight: 900;
+}
+
+.txt
+{
+    font-size: 21px;
+    color: brown;
+}
+#logo
+{
+    font-size: 21px;
+}
+.content
+{
+    height: 380px;
+}
